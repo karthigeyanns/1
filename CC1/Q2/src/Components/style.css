@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.black{
+        color: white;
+        height: 120vh;
+        width: 120vw;
+        background-color:black;   
+}
+.white{
+        color: black;
+        height:120vh;
+        width: 120vw;
+        background-color:white;   
+}
+.button{
+        appearance: none;
+        background-color: purple;
+        color:white;
+        border: 2px solid #1A1A1A;
+        /* border-radius: 15px; */
+        box-sizing: border-box;
+      }
+    .new{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    }
