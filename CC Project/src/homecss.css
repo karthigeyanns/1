@@ -1,0 +1,43 @@
+.cont{
+    width:1550px;
+
+}
+.abc
+{
+    text-align:right;
+}
+.img{
+   display: flex;
+   flex-direction: column;
+   justify-content: left;
+   margin-right: 80%;
+
+}
+.img2{
+    max-width: 100%;
+    max-width: 100%;
+    display: block;
+
+}
+.img{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+}
+
+/* 
+.div2{
+    height:80%;
+    width:600%;
+}
+.div3{
+    height:80%;
+    width:30%;
+} */
+.i1{
+   height:10vh;
+   width:10vw;
+}
