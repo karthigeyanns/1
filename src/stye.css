@@ -1,0 +1,90 @@
+body {
+  background-image:url('https://hips.hearstapps.com/hmg-prod/images/proud-gardener-royalty-free-image-539829042-1555499812.jpg');
+	height: 100vh;
+  background-color: rgb(244, 244, 244);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.title {
+	text-align: center;
+	width: 30vw;
+	background-color: rgb(237, 244, 238);
+	padding: 2vw 1vw;
+	border-radius: 10px 10px 0 0;
+	font-size: 2rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.App {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	width: 30vw;
+	padding: 2vw 1vw;
+	background-color: rgb(249, 249, 249);
+	border-radius: 0 0 10px 10px;
+}
+
+input {
+	border: 1px solid rgb(22, 247, 10);
+	border-radius: 10px;
+	padding: 1vw 1vw;
+	outline: none;
+	margin: 5px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(108, 225, 161, 0.9); 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(249, 247, 247, 0.3, 0.3);
+  }
+  h1 {
+    color: var(--rose-pink); 
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  p {
+    color: var(--soil-brown);
+    line-height: 1.5;
+  }
+  a {
+    color: var(--primary-green);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: var(--secondary-green); 
+  }
+
+  .button {
+    padding: 10px 20px;
+    background-color: var(--sunflower-yellow); 
+    color: var(--daisy-white); 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: var(--light-green); 
+  }
+  
+.ico
+{
+  text-align: center;
+  justify-content: center;
+}

@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "json-server",
+      "lastName": "sv",
+      "email": "typicode@example.com",
+      "password": "123"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "firstName": "Patrick",
+      "lastName": "Peri",
+      "email": "patrick@gmail.com",
+      "password": "patperi",
+      "id": 3
+    },
+    {
+      "firstName": "nitin",
+      "lastName": "ms",
+      "email": "nitin@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "firstName": "j",
+      "lastName": "s",
+      "email": "s@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "firstName": "hsdfdsh",
+      "lastName": "sdfa",
+      "email": "asdf@gmail.com",
+      "password": "123",
+      "id": 6
+    }
+  ]
+}
